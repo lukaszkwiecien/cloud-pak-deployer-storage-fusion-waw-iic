@@ -246,7 +246,7 @@ cp4d:
     - model_id: bigcode-starcoder
       state: removed
     - model_id: meta-llama-llama-2-13b-chat
-      state: installed
+      state: removed
     - model_id: ibm-mistralai-mixtral-8x7b-instruct-v01-q
       state: installed
 
